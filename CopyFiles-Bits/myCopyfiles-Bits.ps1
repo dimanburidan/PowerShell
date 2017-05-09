@@ -1,4 +1,10 @@
-﻿function myCopyFiles-Bits
+﻿##
+## diman buridan
+## myCopyFiles-Bits.ps1
+## 05/09/2017
+##
+
+ function myCopyFiles-Bits
 {
 # Set Parameters
 Param (
