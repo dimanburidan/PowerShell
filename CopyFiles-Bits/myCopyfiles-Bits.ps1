@@ -2,7 +2,7 @@
 ## diman buridan
 ## myCopyFiles-Bits.ps1
 ## 05/09/2017
-##
+## wer
 
  function myCopyFiles-Bits
 {
